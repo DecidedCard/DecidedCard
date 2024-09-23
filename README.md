@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+<a href="링크"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecidedCard)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecidedCard)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **DecidedCard/DecidedCard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -30,10 +30,10 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </p>
 </div>
-<div align=center>
+<!-- <div align=center>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecidedCard)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div> -->
 
 </div>
 
